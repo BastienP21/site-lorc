@@ -1,0 +1,48 @@
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Fichiers VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+.cache/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Dossiers node_modules (si vous utilisez npm plus tard)
+node_modules/
+npm-debug.log*
+
+# Fichiers spécifiques à ne pas versionner
+fichier 2
+
+# Fichiers de configuration locale
+.env
+.env.local
+
+# Dossiers de build (si vous utilisez un générateur de site statique)
+dist/
+build/
+.output/
+
+# Fichiers IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
